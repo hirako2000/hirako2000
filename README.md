@@ -1,4 +1,9 @@
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=Hirako2000&fontSize=90&animation=twinkling)
+
+
 <h1 align="center">Hi 👋, I'm Hirako</h1>
+
 <h3 align="center">A developer, somewhere</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirako2000&label=Profile%20views&color=0e75b6&style=flat" alt="hirako2000" /> </p>
