@@ -13,11 +13,11 @@
 
 - 👨‍💻 Not all of my projects are available at [https://github.com/hirako2000](https://github.com/hirako2000)
 
-- 📝 I regularly write articles on [https://hirakosan.medium.com/](https://hirakosan.medium.com/)
+- 📝 I sometimes write articles on [https://hirakosan.medium.com/](https://hirakosan.medium.com/)
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **hirako2000@gmail.com**
+- 📫 Reach me at **hirako2000@gmail.com**
 
 - 📄 Know about my experiences [https://mtassoumt.uk](https://mtassoumt.uk)
 
