@@ -26,4 +26,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirako2000&show_icons=true&locale=en" alt="hirako2000" /></p>
 
-<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=hirako2000&" alt="hirako2000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirako2000&" alt="hirako2000" /></p>
+
+<p>
+<img src='https://random-memer.herokuapp.com/' width="500" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+  </p>
