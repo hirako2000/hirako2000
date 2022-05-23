@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirako2000&theme=nord&margin-w=15&no-bg=true&column=-1" alt="hirako2000" /></a> </p>
 
-- 🔭 I’m currently working on **Changing the world**
+- 🔭 Currently working on **Changing the world**
 
-- 🌱 I’m currently learning **Solidity, Avalanche, thegraph**
+- 🌱 Learning **Avalanche, thegraph**
 
-- 🤝 I’m looking for help with [KeySpace](https://hirako-storage.surge.sh/)
+- 🤝 Looking for help with [KeySpace](https://mtassoumt.uk/ok/decentralized-storagel)
 
 - 👨‍💻 Not all of my projects are available at [https://github.com/hirako2000](https://github.com/hirako2000)
 
-- 📝 I sometimes write articles on [https://hirakosan.medium.com/](https://hirakosan.medium.com/)
+- 📝 Sometimes write articles on [https://hirakosan.medium.com/](https://hirakosan.medium.com/)
 
 - 💬 Ask me about **Anything**
 
