@@ -17,9 +17,9 @@
 
 - 👨‍💻 Not all of my projects are available at [https://github.com/hirako2000](https://github.com/hirako2000)
 
-- 📝 Sometimes write articles on [https://hirakosan.medium.com/](https://hirakosan.medium.com/)
+- 📝 Sometimes write articles on [Medium](https://hirakosan.medium.com/) or [here](https://mtassoumt.uk/ok/)
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about _Anything_
 
 - 📫 Reach me at **hirako2000@gmail.com**
 
