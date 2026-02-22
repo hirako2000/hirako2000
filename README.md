@@ -1,7 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm</h1>
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=Hirako2000&fontSize=90&animation=twinkling)
+<!--![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=Hirako2000&fontSize=90&animation=twinkling) -->
 
 <h3 align="center">A developer, somewhere</h3>
 
